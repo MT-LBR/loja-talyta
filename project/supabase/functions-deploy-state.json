@@ -1,0 +1,17 @@
+{
+  "projectId": "72532733",
+  "functions": {
+    "contact": {
+      "hasChanged": false,
+      "hash": "8236309aa3030c3e7f7ffbc80489743080b90659dd7c2301a9855da12355d52c"
+    },
+    "payment-webhook": {
+      "hasChanged": false,
+      "hash": "ea4eeb9e61ffa42ce01ec28314546b507d45fd68f2478a1059d45746b44a03f6"
+    },
+    "shipping-quote": {
+      "hasChanged": false,
+      "hash": "0109b5d14a02c5de3a2d57a61e2f63408e4f400fd82af7c692f7e775b5964141"
+    }
+  }
+}

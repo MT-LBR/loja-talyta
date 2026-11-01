@@ -1,0 +1,8 @@
+[functions.shipping-quote]
+verify_jwt = true
+
+[functions.payment-webhook]
+verify_jwt = false
+
+[functions.contact]
+verify_jwt = false
